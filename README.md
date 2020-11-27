@@ -1,1 +1,2 @@
-# class-21-colision-bounce-algo-function
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
